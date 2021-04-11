@@ -11,7 +11,7 @@ This app is from the Udemy course "The complete JavaScript Course 2021: From Zer
 </ul>
 
 
-# What I have learned
+# What I learned
 
 <ul>
 <li>How to plan a project</li>
