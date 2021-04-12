@@ -1,9 +1,9 @@
-## 📍 Mapfy
+# 📍 Mapfy
 
 This app is from the Udemy course "The complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann".
 
 
-## Technologies used
+# Technologies used
 
 <ul>
 <li>Geolocation API</li>
@@ -11,7 +11,7 @@ This app is from the Udemy course "The complete JavaScript Course 2021: From Zer
 </ul>
 
 
-## What I learned
+# What I learned
 
 <ul>
 <li>How to plan a project</li>
